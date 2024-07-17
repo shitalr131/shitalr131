@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on APIs
 - 📫 How to reach me shitalr131@gmail
 - 😄 Pronouns: Shital
-- ⚡ Fun fact: Funny as the fun gets, its funnier and to be the funniest.
+- ⚡ Fun fact: Funny as the fun gets, its funnier to be the funniest.
 
 <!---
 shitalr131/shitalr131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
